@@ -1,5 +1,5 @@
 <!-- Profile README for Nanji03 -->
-<h1 align="center">Hey there!, I'm Nanji</h1>
+<h1 align="center">Hey there!, I'm Nanjiba</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -11,7 +11,7 @@
 
 ###  About Me  
 
-I'm a full-stack developer experienced with **Python**, **JavaScript**, and **Node.js** — building scalable web apps, automating data workflows, and exploring **data science** through **Jupyter Notebooks**.  
+I'm a full-stack developer experienced with **Python**, **JavaScript**, and **Node.js**, building scalable web apps, automating data workflows, and exploring **data science** through **Jupyter Notebooks**.  
 I enjoy working across the full stack, integrating AI, and designing intuitive user experiences that blend creativity with functionality.
 
 ---
