@@ -42,6 +42,7 @@ I enjoy working across the full stack, integrating AI, and designing intuitive u
 | *CodeGenerator-Workflow* | *The workflow is designed to automatically generate, test, and refine Python code from any function specification provided by the user.* | *Python* | https://github.com/Nanji03/CodeGenerator-Workflow)) |
 | *EDA-FIFA2021* | *Exploratory Data Analysis of FIFA 2021 Players.* | *Python, Jupyter Notebook* | https://github.com/Nanji03/EDA-FIFA2021 |
 | *NoteSync* | *NoteSync is a modern educational platform designed to help students organize their academic life more efficiently.* | *JavaScript, Python, React, Django HTML-CSS, Profile* | https://github.com/Nanji03/NoteSync |
+| *Multivariate-LSTM* | *Model for predicting the next day's closing stock price of Google(the dataset used).* | *Python and Jupyter Notebook*| https://github.com/Nanji03/Multivariate-LSTM |
 
 *(More coming soon...)*  
 
